@@ -3,7 +3,7 @@
 ![Eco Status](https://img.shields.io/badge/ECO-Friendly-green.svg)
 [![Discord](https://discord.com/api/guilds/571393319201144843/widget.png)](https://discord.gg/dRwW4rw)
 
-# Astronautas
+# Coming soon
 
 _website design project_
 
@@ -13,7 +13,7 @@ _website design project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://front-end-by-rimantas.github.io/55-grupe-astronautas
+Site published at: https://vytautas99.github.io/Coming-soon/
 
 Design: ![alt text](./img/project-design.png)
 
@@ -26,18 +26,7 @@ Design: ![alt text](./img/project-design.png)
 -   CSS animations
 -   HTML forms
 -   Background image    
-    -   `touch index.html` (sukuria faila)
-    -   `touch failas1.txt failas2.txt failas3.txt failas4.txt`
-    -   `mkdir img` (sukuria folderi/direktorija)
-    -   `mkdir folder1 folder2 folder3 folder4`
-    -   `ls -al` (stulpeliu atvaizduoja direktorijoje esanti turini)
-    -   `rm failo.pavadinimas` (pasalina faila)
--   git commands:
-    -   `git init` (git repozitorijos iniciavimas)
-    -   `git add .` (visus paredaguotus failas perkelia i "stage", t.y. paruosia commit'inimui)
-    -   `git commit -m "Message text"` (su'commit'ina)
-    -   `git push` (issiuncia commit'a i remove repozitorija (Github))
-
+   
 ## 🧰 Getting Started
 
 ### 💻 Prerequisites
@@ -81,7 +70,7 @@ There is no tests for this project.
 
 ## 🎅 Authors
 
-Vytauytas: [Github](https://github.com/Vytautas99)
+Vytautas: [Github](https://github.com/Vytautas99)
 
 ## ⚠️ License
 
