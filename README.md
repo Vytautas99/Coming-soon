@@ -25,7 +25,8 @@ Design: ![alt text](./img/project-design.png)
 -   external fonts
 -   CSS animations
 -   HTML forms
--   Background image    
+-   Background image   
+-   CSS custom properties ( aka variables) 
    
 ## 🧰 Getting Started
 
