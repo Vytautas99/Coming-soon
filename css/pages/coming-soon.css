@@ -3,9 +3,20 @@
   background-color: #03a9f5;
 }
 
+.hero {
+  background-image: url(../../img/hero.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 100vh;
+  background-attachment: fixed;
+}
+
 .logo {
   height: 40px;
 }
+
+
 
 .main-title {
   font-size: 50px;
