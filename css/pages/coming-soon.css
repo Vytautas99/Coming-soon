@@ -4,20 +4,18 @@
 }
 
 .hero {
-  background-image: url(../../img/hero.jpg);
+  background-image: url(../../img/hero-small.png);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  min-height: 100vh;
   background-attachment: fixed;
+  min-height: 100vh;
   justify-content: center;
 }
 
 .logo {
   height: 40px;
 }
-
-
 
 .main-title {
   font-size: 50px;
@@ -28,6 +26,21 @@
 .main-description {
   font-size: 22px;
   color: #ccc;
+}
+
+.hero .form-row {
+  justify-content: center;
+}
+.hero label {
+  color: #fff;
+}
+.hero input {
+  background-color: transparent;
+  border-color: #fff;
+  color: #fff;
+}
+.hero ::placeholder {
+  color: #fff;
 }
 
 .section-title {
